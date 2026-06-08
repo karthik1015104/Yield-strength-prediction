@@ -196,7 +196,3 @@ result = predict_yield_strength(
 
 https://yield-strength-prediction-24dwwdmgtrgpgqccpmmstb.streamlit.app
 
----
-
-*Built by Karthik · IIT Madras · Undergraduate, expected graduation May 2028*
-*MS AI/ML applicant, Fall 2028*
