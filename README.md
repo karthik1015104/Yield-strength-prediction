@@ -192,6 +192,10 @@ result = predict_yield_strength(
 - Yang & Zhang (2012) — Omega parameter for phase stability prediction
 - Miracle & Senkov (2017) — *A critical review of MPEA/HEA research*, Acta Materialia
 
+## Live Demo
+
+https://yield-strength-prediction-24dwwdmgtrgpgqccpmmstb.streamlit.app
+
 ---
 
 *Built by Karthik · IIT Madras · Undergraduate, expected graduation May 2028*
